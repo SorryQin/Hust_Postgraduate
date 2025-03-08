@@ -1,1 +1,1 @@
-mnist手写数据集识别
+numpy实现mnist手写数据集识别
